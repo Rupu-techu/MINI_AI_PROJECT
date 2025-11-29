@@ -4,6 +4,7 @@ It corrects spelling mistakes in sentences and paragraphs and includes a custom 
 ### 🔤 Example Usage
 
 Input: the thrd line also hav misstakes
+
 Output:the third line also have mistakes
 
 ## 🎥 Screen Recording Demo
