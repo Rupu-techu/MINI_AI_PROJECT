@@ -5,7 +5,7 @@ It corrects spelling mistakes in sentences and paragraphs and includes a custom 
 
 Input: the thrd line also hav misstakes
 
-Output:the third line also have mistakes
+Output: the third line also have mistakes
 
 ## 🎥 Screen Recording Demo
 Watch the full video here:
